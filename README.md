@@ -23,6 +23,18 @@ media, przedsięwzięcia, obiekty. Wszystko w dbałości o balans ingerencji cz�
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 ## &#x20;     _GENESIS_
 
 **Pierwszy smartkontrakt**&#x20;
