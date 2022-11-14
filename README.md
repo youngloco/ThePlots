@@ -14,24 +14,26 @@ description: Społeczność posiadaczy gruntów rozliczanych na łańcuchu blok�
 
 ## Wprowadzenie
 
-Posiadanie gruntów jak i posiadanie wpływu na ich zagospodarowanie wiąże się z wysokimi kosztami. Zawiłości prawne, urzędowe opłaty i wiele innych rzeczy utrudnia dostęp do tej formy inwestycji. Dzięki transparentnej technologii [Blockchain ](https://pl.wikipedia.org/wiki/Blockchain)można usprawnić proces inwestycji w grunty, działki lub nieruchomości. [Tokenizacja](https://pl.wikipedia.org/wiki/Tokenizacja) umożliwia zastosowanie certyfikatu autentyczności gruntu i właściciela z obszerną interakcją włącznie. Projekt ThePlots ma za zadanie połączyć użytkowników technologii [Blockchain](https://pl.wikipedia.org/wiki/Blockchain) w społeczność mającą wpływ na zagospodarowanie gruntów pozyskiwanych przez prawną reprezentację projektu. Narzędzia zaimplementowane w projekcie zabezpieczają inwestorów cyfrowo i w środowisku prawnym. Nadrzędnym celem projektu jest zbalansowany wpływ człowieka i technologii na naturalne środowisko.
+Posiadanie gruntów jak i posiadanie wpływu na ich zagospodarowanie wiąże się z wysokimi kosztami. Zawiłości prawne, urzędowe opłaty i wiele innych rzeczy utrudnia dostęp do tej formy inwestycji. Przy użyciu transparentnej technologii blockchain projekt ThePlots chce usprawnić proces inwestycji w grunty, działki lub nieruchomości. Tokenizacja umożliwi redukcje kosztów dzięki rozproszenie i zastosowanie certyfikatu autentyczności gruntu. Obszerną interakcje umożliwi platforma web 3.0. Projekt ThePlots ma za zadanie połączyć użytkowników technologii blockchain w społeczność mającą wpływ na zagospodarowanie gruntów pozyskiwanych przez prawną reprezentację projektu. Narzędzia zaimplementowane w projekcie zabezpieczają inwestorów cyfrowo, w środowisku prawnym, uzbrajają tokeny w realną wartość.&#x20;
 
 ## Idea
 
 Długoterminowym celem projektu jest ciągła ekspansja na rynku gruntów. Posiadanie coraz to większej ilości działek uruchomia w projekcie mechanizmy rozwoju. Grunty będą uzbrajane w różne \
-media, przedsięwzięcia, obiekty. Wszystko w dbałości o balans ingerencji człowieka w środowisko naturalne. Kierunek rozwoju wyznaczają posiadacze tokenów biorący czynny udział głosując w DAO. Wewnętrzna ekonomia oparta o łańcuch bloków i reprezentacja prawna dbająca o środowisko notarialno-prawne są filarami projektu.
+media, przedsięwzięcia, obiekty. Kierunek rozwoju wyznaczają posiadacze tokenów biorący czynny udział głosując w DAO. Wewnętrzna ekonomia oparta o łańcuch bloków i reprezentacja prawna dbająca o środowisko notarialno-prawne są filarami projektu.
+
+## Wizja rozwoju
+
+Stopniowa ekspansja na rynku gruntów umożliwia wdrażanie nowych filarów projektu. Grunty pozyskiwane przez reprezentacje prawną projektu będą różniły się zastosowaniem. \
+\
+Użytkownicy będą mogli rozwijać wartość tokenów dzięki budowaniu realnych obiektów:
+
+_**Obiekty energetyczne     Obiekty mieszkalne     Obiekty produkcyjne     Obiekty magazynowe**_
+
+Interakcja inwestorów z gruntami odbywać się będzie dzięki platformie web 3.0, a obiekty będą posiadały swoją reprezentacje na łańcuchu bloków.
 
 
 
-
-
-
-
-
-
-
-
-
+**Zacznijmy od początku ...**&#x20;
 
 
 
@@ -72,11 +74,13 @@ Udział w projekcie rozpoczyna się od wybicia tokenów. Pod adresem _**theplots
 &#x20;    _Smartkontrakt Genesis odpowiada za grunt o łącznej wielkości 1000m2._\
 &#x20;    _Każdy token odpowiada za mini grunt o wielkości 10m2._
 
-Na gruncie Genesis znajdzie się siedziba projektu koordynująca działania. Dodatkowo podporą wartości pierwszych tokenów będzie status Genesis. Posiadacze tokenów $GPLOT otrzymają również status TRUST w społeczności dający szereg przywilejów. &#x20;
+Na gruncie Genesis znajdzie się siedziba projektu koordynująca działania. Posiadacze tokenów $GPLOT otrzymają również status TRUST w społeczności dający szereg przywilejów.  \
+\
+**Staking, caliming w dalszej fazie rozwoju projektu**&#x20;
 
 ## &#x20;    ROADMAP
 
-Główne cele projektu pozostają niezmienne. Rozkład prac nad projektem będzie regularnie aktualizowany pod adresem **theplots.io/roadmap**\
+Główne cele projektu pozostają niezmienne. Rozkład prac nad projektem będzie regularnie aktualizowany na platformie **theplots.io**\
 ****\
 ****Smartkontrakt "Genesis" będzie rozwijany następująco:
 
@@ -97,7 +101,7 @@ Główne cele projektu pozostają niezmienne. Rozkład prac nad projektem będzi
 
 ## &#x20;Reprezentacja prawna projektu
 
-Ostateczna forma fundacji zajmującej się obsługą projektu zostanie ogłoszona po oficjalnej rejestracji w stosownych urzędach. Jej zadaniem będzie zabezpieczyć projekt cyfrowo i w środowisku prawnym. Jej siedziba znajdzie się na gruncie zabezpieczającym smartkontrakt "Genesis".&#x20;
+Technologia blockchain&#x20;
 
 
 
