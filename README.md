@@ -102,7 +102,11 @@ Główne cele projektu pozostają niezmienne. Rozkład prac nad projektem będzi
 
 ## &#x20;Reprezentacja prawna projektu
 
-Fundacja jest niezbędną komórką koordynującą działania projektu i dbającą o bezpieczeństwo gruntów. Przyświeca jej cel promowania realnej użyteczności tokenów opartych o blockchain.  Posiadacze tokenów $GPLOT zyskają szanse bycia członkiem zarządu Fundacji
+Fundacja jest niezbędną komórką koordynującą działania projektu i dbającą o bezpieczeństwo gruntów. Przyświeca jej cel promowania realnej użyteczności tokenów opartych o blockchain.  \
+\
+Posiadacze tokenów $GPLOT zyskają szanse bycia członkiem zarządu Fundacji.
+
+##
 
 ****\
 ****
