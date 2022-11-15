@@ -96,14 +96,13 @@ Główne cele projektu pozostają niezmienne. Rozkład prac nad projektem będzi
 6. _Publiczna sprzedaż_
 7. _Dystrybucja informacji o zabezpieczeniu tokena_
 8. _Uruchomienie fundacji_
-9. _Uruchomienie DAO_
+9. _Uruchomienie DAO_\
+   _-pierwsze głosowanie_
 10. _Aktualizacja roadmap_
 
 ## &#x20;Reprezentacja prawna projektu
 
-Technologia blockchain&#x20;
-
-
+Fundacja jest niezbędną komórką koordynującą działania projektu i dbającą o bezpieczeństwo gruntów. Przyświeca jej cel promowania realnej użyteczności tokenów opartych o blockchain.  Posiadacze tokenów $GPLOT zyskają szanse bycia członkiem zarządu Fundacji
 
 ****\
 ****
