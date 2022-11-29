@@ -14,18 +14,17 @@ description: Społeczność posiadaczy gruntów rozliczanych na łańcuchu blok�
 
 ## Wprowadzenie
 
-Posiadanie gruntów jak i posiadanie wpływu na ich zagospodarowanie wiąże się z wysokimi kosztami. Zawiłości prawne, urzędowe opłaty i wiele innych rzeczy utrudnia dostęp do tej formy inwestycji. Przy użyciu transparentnej technologii blockchain projekt ThePlots chce usprawnić proces inwestycji w grunty, działki lub nieruchomości. Tokenizacja umożliwi redukcje kosztów dzięki rozproszenie i zastosowanie certyfikatu autentyczności gruntu. Obszerną interakcje umożliwi platforma web 3.0. Projekt ThePlots ma za zadanie połączyć użytkowników technologii blockchain w społeczność mającą wpływ na zagospodarowanie gruntów pozyskiwanych przez prawną reprezentację projektu. Narzędzia zaimplementowane w projekcie zabezpieczają inwestorów cyfrowo, w środowisku prawnym, uzbrajają tokeny w realną wartość.&#x20;
+Posiadanie gruntów jak i posiadanie wpływu na ich zagospodarowanie wiąże się z wysokimi kosztami. Zawiłości prawne, urzędowe opłaty i szereg innych kwestii utrudnia dostęp do tej formy inwestycji. Przy użyciu transparentnej technologii blockchain projekt ThePlots chce usprawnić proces inwestycji w grunty, działki lub nieruchomości. Tokenizacja umożliwia stworzenie wewnętrznej ekonomii. Podzielone i rozproszone grunty na wielu inwestorów posiadają certyfikat autentyczności. Dzięki platformie web 3.0 inwestorzy będą mogli łączyć, rozwijać i mieć wpływ na grunt zabezpieczony odpowiednim tokenem. Projekt ThePlots ma za zadanie połączyć użytkowników technologii blockchain w społeczność mającą wpływ na zagospodarowanie gruntów pozyskiwanych przez prawną reprezentację projektu. Narzędzia zaimplementowane w projekcie zabezpieczają inwestorów cyfrowo i w środowisku prawnym. &#x20;
 
 ## Idea
 
-Długoterminowym celem projektu jest ciągła ekspansja na rynku gruntów. Posiadanie coraz to większej ilości działek uruchomia w projekcie mechanizmy rozwoju. Grunty będą uzbrajane w różne \
-media, przedsięwzięcia, obiekty. Kierunek rozwoju wyznaczają posiadacze tokenów biorący czynny udział głosując w DAO. Wewnętrzna ekonomia oparta o łańcuch bloków i reprezentacja prawna dbająca o środowisko notarialno-prawne są filarami projektu.
+Długoterminowym celem projektu jest ciągła ekspansja na rynku gruntów. Reprezentacja prawna zapewnia inwestorom dostęp do gruntów o atrakcyjnym położeniu i zróżnicowanym terenie. Zapewnia też bezpieczeństwo na gruntach i świadczy usługi na rzecz rozwoju gruntów. Posiadacze tokenów odpowiadających za dany grunt wyznaczają kierunek rozwoju biorąc czynny udział w głosowaniach w DAO.&#x20;
 
 ## Wizja rozwoju
 
 Stopniowa ekspansja na rynku gruntów umożliwia wdrażanie nowych filarów projektu. Grunty pozyskiwane przez reprezentacje prawną projektu będą różniły się zastosowaniem. \
 \
-Użytkownicy będą mogli rozwijać wartość tokenów dzięki budowaniu realnych obiektów:
+W dalszej fazie rozwoju użytkownicy będą mogli rozwijać wartość tokenów dzięki budowaniu realnych obiektów:
 
 _**Obiekty energetyczne     Obiekty mieszkalne     Obiekty produkcyjne     Obiekty magazynowe**_
 
@@ -45,13 +44,15 @@ Udział w projekcie rozpoczyna się od wybicia tokenów. Pod adresem _**theplots
 
 ## &#x20;    **TOKENOMIA**                   &#x20;
 
-&#x20;    **Cena Mintu - 0,3 ETH**
+**Cena Mintu - 0,3 ETH**
 
 &#x20;    **** 80% - Fizyczne zabezpieczenie tokena&#x20;
 
-&#x20;    10% - Rezerwy
+&#x20;    10% - Rezerwy ETH\*
 
-&#x20;    10% - Reprezentacja prawna projektu
+&#x20;    10% - Reprezentacja prawna projektu\
+\
+\* Rozdysponowanie środków za pomocą DAO
 
 **Specyfikacja**
 
@@ -74,7 +75,7 @@ Udział w projekcie rozpoczyna się od wybicia tokenów. Pod adresem _**theplots
 &#x20;    _Smartkontrakt Genesis odpowiada za grunt o łącznej wielkości 1000m2._\
 &#x20;    _Każdy token odpowiada za mini grunt o wielkości 10m2._
 
-Na gruncie Genesis znajdzie się siedziba projektu koordynująca działania. Posiadacze tokenów $GPLOT otrzymają również status TRUST w społeczności dający szereg przywilejów.  \
+Na gruncie Genesis znajdzie się siedziba projektu koordynująca działania. Posiadacze tokenów $GPLOT otrzymają również status TRUST dający szereg przywilejów.  \
 \
 **Staking, caliming w dalszej fazie rozwoju projektu**&#x20;
 
@@ -87,7 +88,7 @@ Główne cele projektu pozostają niezmienne. Rozkład prac nad projektem będzi
 1. _Formowanie wizji_\
    _- analiza sytuacji rynkowej_\
    _- konsultacje_&#x20;
-2. _Opracowanie Whitepappera_
+2. _Opracowanie białej księgi_
 3. _Uruchomienie kanałów komunikacji_\
    _- Twitter_
 4. _Publikacja audytu_
@@ -102,9 +103,8 @@ Główne cele projektu pozostają niezmienne. Rozkład prac nad projektem będzi
 
 ## &#x20;Reprezentacja prawna projektu
 
-Fundacja jest niezbędną komórką koordynującą działania projektu i dbającą o bezpieczeństwo gruntów. Przyświeca jej cel promowania realnej użyteczności tokenów opartych o blockchain.  \
-\
-Posiadacze tokenów $GPLOT zyskają szanse bycia członkiem zarządu Fundacji.
+Fundacja jest niezbędną komórką koordynującą działania projektu i dbającą o bezpieczeństwo gruntów. Przyświeca jej cel promowania realnej użyteczności tokenów opartych o blockchain i zbalansowana ingerencja człowieka w środowisko naturalne. Działa na rzecz rozwoju wartości rynkowej pozyskanych gruntów. Ostateczna forma jak i jej zarząd zostanie przedstawiona wraz z kolejnymi etapami rozwoju. \
+
 
 ##
 
