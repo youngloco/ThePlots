@@ -64,7 +64,6 @@ Udział w projekcie rozpoczyna się od wybicia tokenów. Pod adresem _**theplots
 
 &#x20;    Całkowita podaż - 100
 
-&#x20;    Creator Fee - 5%
 
 **Dystrybucja**
 
