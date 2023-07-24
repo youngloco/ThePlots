@@ -88,15 +88,14 @@ Smartkontrakt "Genesis" będzie rozwijany następująco:
 1. _Formowanie wizji_\
    _- analiza sytuacji rynkowej_\
    _- konsultacje_&#x20;
-2. _Opracowanie białej księgi_
+2. _Uruchomienie strony informacyjnej_
 3. _Uruchomienie kanałów komunikacji_\
-   _- Twitter_
-4. _Publikacja audytu_
+4. _Publikacja regulaminu v1_
 5. _Uruchomienie platformy_\
    _- theplots.io_
 6. _Publiczna sprzedaż_
 7. _Dystrybucja informacji o zabezpieczeniu tokena_
-8. _Uruchomienie fundacji_
+8. _Uruchomienie reprezentacji prawnej_
 9. _Uruchomienie DAO_\
    _-pierwsze głosowanie_
 10. _Aktualizacja roadmap_
