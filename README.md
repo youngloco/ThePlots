@@ -46,7 +46,7 @@ Udział w projekcie rozpoczyna się od wybicia tokenów. Pod adresem _**theplots
 
 **Cena Mintu - 0,3 ETH**
 
-&#x20;    **** 80% - Fizyczne zabezpieczenie tokena&#x20;
+&#x20;    80% - Fizyczne zabezpieczenie tokena&#x20;
 
 &#x20;    10% - Rezerwy ETH\*
 
@@ -82,8 +82,8 @@ Na gruncie Genesis znajdzie się siedziba projektu koordynująca działania. Pos
 ## &#x20;    ROADMAP
 
 Główne cele projektu pozostają niezmienne. Rozkład prac nad projektem będzie regularnie aktualizowany na platformie **theplots.io**\
-****\
-****Smartkontrakt "Genesis" będzie rozwijany następująco:
+\
+Smartkontrakt "Genesis" będzie rozwijany następująco:
 
 1. _Formowanie wizji_\
    _- analiza sytuacji rynkowej_\
@@ -108,18 +108,6 @@ Fundacja jest niezbędną komórką koordynującą działania projektu i dbając
 
 ##
 
-****\
-****
-
-****
-
-****
-
-
-
-****
-
-\
 
 
 
