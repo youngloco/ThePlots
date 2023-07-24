@@ -87,7 +87,7 @@ Smartkontrakt "Genesis" będzie rozwijany następująco:
 1. _Formowanie wizji_\
    _- analiza sytuacji rynkowej_\
    _- konsultacje_&#x20;
-2. _Uruchomienie strony informacyjnej_
+2. _Uruchomienie strony informacyjnej_\
 3. _Uruchomienie kanałów komunikacji_\
 4. _Publikacja regulaminu v1_
 5. _Uruchomienie platformy_\
