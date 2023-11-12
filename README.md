@@ -36,7 +36,7 @@ Interakcja inwestorów z gruntami odbywać się będzie dzięki platformie web 3
 
 **Pierwszy smartkontrakt**
 
-Udział w projekcie rozpoczyna się od wybicia tokenów. Pod adresem _**theplots.io/mint**_ zdobędziesz NFT, które zostanie zabezpieczone gruntem w świecie realnym.
+Udział w projekcie rozpoczyna się od wybicia tokenów. Pod adresem _**theplots.info/mint**_ zdobędziesz NFT, które zostanie zabezpieczone gruntem w świecie realnym.
 
 ## **TOKENOMIA**
 
